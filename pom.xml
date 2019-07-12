@@ -6,7 +6,7 @@
 	<groupId>com.ally</groupId>
 	<artifactId>invoicify</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<packaging>jar</packaging>
+	<packaging>war</packaging>
 
 	<name>invoicify</name>
 	<description>an application that acts as an invoice management service.</description>
